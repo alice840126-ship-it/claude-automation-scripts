@@ -1,0 +1,29 @@
+# Environment variables (API keys, tokens)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Backup files
+*.bak
+*~
+
+# Temporary files
+*.tmp
+temp/
